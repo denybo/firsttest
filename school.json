@@ -28,20 +28,24 @@
     },
     "EVENTS": {
       "static": {
-        "1/25": "Digital Learning Day",
-        "3/2": "Digital Leaerning Day and Early Release",
-        "3/3": "Early Release",
-        "3/22": "Digital Learning Day",
-        "8/4": "Digital Learning Day",
-        "9/14": "Digital Learning Day",
-        "10/20": "Digital Learning Day",
-        "10/21": "Early Release",
-        "10/22": "Early Release",
-        "11/9": "Digital Learning Day",
-        "11/20": "Digital Learning Day",
-        "11/29": "Early Release",
-        "11/30": "Early Release",
-        "12/9": "Digital Learning Day"
+        "12/15": "Early Release",
+        "3/11": "Early Release",
+        "5/13": "Early Release",
+        "5/24": "Early Release"
+#        "1/25": "Digital Learning Day",
+#        "3/2": "Digital Leaerning Day and Early Release",
+#        "12/15": "Early Release",
+#        "3/22": "Digital Learning Day",
+#        "8/4": "Digital Learning Day",
+#        "9/14": "Digital Learning Day",
+#        "10/20": "Digital Learning Day",
+#        "10/21": "Early Release",
+#        "10/22": "Early Release",
+#        "11/9": "Digital Learning Day",
+#        "11/20": "Digital Learning Day",
+#        "11/29": "Early Release",
+#        "11/30": "Early Release",
+#        "12/9": "Digital Learning Day"
         
       }
     }
